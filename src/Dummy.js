@@ -28,7 +28,7 @@ let arr = [
   },
   {
     srcUrl:
-      "https://www.biography.com/.image/t_share/MTQyMDA0ODU4NTc5MzMwMTEx/kylie-jenner_gettyimages-602272520jpg.jpg",
+      "https://freebollywoodsnaps.files.wordpress.com/2016/03/a64e12bf001e3665d4b5d0e423df72d3.jpg",
     title: "Upanshu Kumar",
     text: `Lorem ipsum dolor sit amet, consectetur`,
     buttonLink: "https://www.google.com/",
