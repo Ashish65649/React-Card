@@ -28,7 +28,7 @@ let arr = [
   },
   {
     srcUrl:
-      "https://freebollywoodsnaps.files.wordpress.com/2016/03/a64e12bf001e3665d4b5d0e423df72d3.jpg",
+      "https://edge.mwallpapers.com/photos/celebrities/disha-patani/disha-patani-beautiful-hd-photoshoot-stills-1080p-l50rzg.jpg",
     title: "Upanshu Kumar",
     text: `Lorem ipsum dolor sit amet, consectetur`,
     buttonLink: "https://www.google.com/",
